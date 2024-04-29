@@ -1,7 +1,7 @@
 <h1 align="center"> Hello There 👋 </h1>
 
 
-* I am [Pranay](https://github.com/Pranayinfo), a DevOps Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;	 . I am working as a DevOps at @Excelr, passionate about developing production-ready applications with 6+ years of professional onsite as well as remote working experience. 🎯
+* I am [Pranay](https://github.com/Pranayinfo), a DevOps Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;	 . I am working as a DevOps at @Excelr, passionate about developing production-ready applications with 2+ years of professional onsite as well as remote working experience. 🎯
 I mostly work with DevOps Tools, and Cloud based technologies. 🚀
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
